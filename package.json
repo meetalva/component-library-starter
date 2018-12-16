@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/meetalva/component-library-starter/issues"
   },
-  "homepage": "https://github.com/meetalva/component-library-starter#readme"
+  "homepage": "https://github.com/meetalva/component-library-starter#readme",
+  "dependencies": {
+    "@types/react": "^16.7.17",
+    "@types/react-dom": "^16.0.11",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "styled-components": "^4.1.2"
+  }
 }
