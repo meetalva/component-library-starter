@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "lib": ["dom", "es2015"],
+    "module": "es2015",
+    "outDir": "./lib",
+    "target": "es2015"
+  }
+}

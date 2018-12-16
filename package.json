@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "styled-components": "^4.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
   }
 }
