@@ -1,3 +1,1 @@
-// src/index.ts
-// placeholder entry file
-// export * from './hello-world';
+export * from './hello-world';
